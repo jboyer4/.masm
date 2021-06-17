@@ -8,3 +8,5 @@ arrayManip:
   
 combinations_solver:
   THis program highlights skills passing parameters, using local variables, and ascii character manipulation.  It randomly generates a sample combinations problem (choose x in set of size y where 0 <= x <= y). and solves it.
+
+This project is intended to be run from Visual Studio
